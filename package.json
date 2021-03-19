@@ -1,7 +1,7 @@
 {
   "name": "example1",
   "version": "0.0.2",
-  "description": "database project",
+  "description": "database project"
   "main": "main.js",
   "scripts": {
     "start": "node main.js",
@@ -26,7 +26,6 @@
   "homepage": "https://github.com/MichelleOsborne/example1#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "node-static": "^0.7.11",
     "sqlite3": "^5.0.2"
   }
 }
