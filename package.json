@@ -1,0 +1,31 @@
+{
+  "name": "example1",
+  "version": "0.0.2",
+  "description": "database project",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichelleOsborne/example1.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node.js",
+    "Express.js",
+    "SQLite",
+    "Angular.js"
+  ],
+  "author": "Michelle",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MichelleOsborne/example1/issues"
+  },
+  "homepage": "https://github.com/MichelleOsborne/example1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
+  }
+}
